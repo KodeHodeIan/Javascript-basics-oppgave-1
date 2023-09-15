@@ -7,6 +7,10 @@
     <script src="JavaScriptHjemmelekseuke3" ></script>
 </head>
 <body>
-    
-</body>
+    <button>
+        CLick me
+    </button>
+
+    <script src="JavaSctiptHjemmeleskeuke3"></script>
+ </body>
 </html>
